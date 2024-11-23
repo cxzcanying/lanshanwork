@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="servlet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlet_jar</output-path>
+    <root id="archive" name="servlet.jar">
+      <element id="module-output" name="lanshanwork" />
+    </root>
+  </artifact>
+</component>
